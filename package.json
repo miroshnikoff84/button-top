@@ -2,29 +2,25 @@
   "name": "button-top",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "gulpfile.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/miroshnikoff84/miroshnikoff84.github.io.git"
+    "url": "git+https://github.com/miroshnikoff84/button-top.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/miroshnikoff84/miroshnikoff84.github.io/issues"
+    "url": "https://github.com/miroshnikoff84/button-top/issues"
   },
-  "homepage": "https://github.com/miroshnikoff84/miroshnikoff84.github.io#readme",
+  "homepage": "https://github.com/miroshnikoff84/button-top#readme",
   "devDependencies": {
     "gulp": "^4.0.2",
-    "gulp-cssmin": "^0.2.0",
-    "gulp-sass": "^4.0.2",
-    "node-sass": "^4.13.0"
+    "gulp-sass": "^4.0.2"
   },
   "dependencies": {
-    "browser-sync": "^2.26.7",
-    "gulp-minify-css": "^1.2.4",
-    "sass-lint": "^1.13.1"
+    "browser-sync": "^2.26.7"
   }
 }
